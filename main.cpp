@@ -34,7 +34,7 @@ int main() {
   int number2;
 
   sayHello();
-  cout << "please enter a number between 0 and 400: ";
+  cout << "please enters a number between 0 and 400: ";
   cin >> number1;
   cout << "\nplease enter another number between 0 and 400: ";
   cin >> number2;
